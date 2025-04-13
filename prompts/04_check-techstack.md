@@ -1,4 +1,4 @@
-Dokonaj krytycznej lecz rzeczowej analizy czy <tech-stack> odpowiednio adresuje potrzeby @prd.md. Rozważ następujące pytania:
+Dokonaj krytycznej lecz rzeczowej analizy czy <tech-stack> odpowiednio adresuje potrzeby <prd>. Rozważ następujące pytania:
 1. Czy technologia pozwoli nam szybko dostarczyć MVP?
 2. Czy rozwiązanie będzie skalowalne w miarę wzrostu projektu?
 3. Czy koszt utrzymania i rozwoju będzie akceptowalny?
